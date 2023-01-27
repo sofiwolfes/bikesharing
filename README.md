@@ -14,9 +14,12 @@ Using data sets from CitiBike's system data page, python, and tableau, we will v
 
 For more insights, please visit the Tableau report that includes an story with some insights: [Tableau](https://public.tableau.com/app/profile/sofia.w6988/viz/Chellenge15/Dashboard1)
 
-As we can see in the below image,
+As we can see in the below image, we will be taking into consideration the total number of riders and a breakdown of that number into the different genders.
+
+We start the analysis with a breakdown of the checkout times by gender, being able to quickly determine that short rides are more popular than longer ones.
 
 ![Alt text](https://github.com/sofiwolfes/bikesharing/blob/main/Resources/Image1.png)
+
 
 
 
