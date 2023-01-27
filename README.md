@@ -16,7 +16,7 @@ For more insights, please visit the Tableau report that includes an story with s
 
 As we can see in the below image,
 
-![Alt text](
+![Alt text](https://github.com/sofiwolfes/bikesharing/blob/main/Resources/Image1.png)
 
 
 
