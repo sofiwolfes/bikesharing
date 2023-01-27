@@ -20,34 +20,34 @@ We start the analysis with a breakdown of the checkout times by gender, being ab
 
 ![Alt text](https://github.com/sofiwolfes/bikesharing/blob/main/Resources/Image1.png)
 
+We can also see thanks to the below visualizations, that the majority of the rides start in midtow.
 
+![Alt text](https://github.com/sofiwolfes/bikesharing/blob/main/Resources/Image2.png)
+
+With the following visualization, we can have a clear idea that the user that is suscribed to CityBike takes a much higher number of rides than the general customer.
+
+![Alt text](https://github.com/sofiwolfes/bikesharing/blob/main/Resources/Image4.png)
+
+
+
+Looking at the number of rides per hour per weekday, seems like the peak times for CitiBike riders are during the rush hour periods (around 7AM to 10AM and 4PM to 7PM). 
+We can also determine that during the weekend, the number of riders is much more uniform throughout the day instead of having two distinct peaks. 
+
+![Alt text](https://github.com/sofiwolfes/bikesharing/blob/main/Resources/Image3.png)
+
+![Alt text](https://github.com/sofiwolfes/bikesharing/blob/main/Resources/Image5.png)
 
 
 # Summary:
 
 
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 
 ---------------
 
-Results:
-
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
 
 Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-
-
-----------
-
-Upload the following to your bikesharing GitHub pages repository:
-
-The NYC_Citibike_Challenge.ipynb file.
-An updated README.md that has your written analysis with visualizations. Also, embed the Tableau Public link in your README.md file. You can do this in a few ways, but here are the two most popular ones:
-[link to dashboard](LINK GOES HERE)
-[link to dashboard](LINK GOES HERE "link to dashboard")
